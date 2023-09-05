@@ -35,9 +35,13 @@
 
 <a href="https://www.youtube.com/playlist?list=PLlaaKSQo-dsWUHK8QcRtiifJgydOIvWlE">컴파일러 - 우균 교수님</a>
 
+<a href="https://github.com/kaist-cp/cs420">Compiler Design - 강지훈 교수님</a> (<a href="https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0">Youtube</a>)
+
 ## ETC
 
 <a href="https://github.com/aalhour/awesome-compilers">awesome-compilers</a>
+
+<a href="https://github.com/shining1984/PL-Compiler-Resource">PL-Compiler-Resource</a>
 
 <a href="https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch/dp/1718500424">Writing a C Compiler</a>
 
