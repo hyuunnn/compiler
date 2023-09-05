@@ -40,3 +40,7 @@
 <a href="https://github.com/aalhour/awesome-compilers">awesome-compilers</a>
 
 <a href="https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch/dp/1718500424">Writing a C Compiler</a>
+
+<a href="https://github.com/vindarel/languages-that-compile-to-python">languages-that-compile-to-python</a>
+
+<a href="https://github.com/pfalcon/awesome-python-compilers">awesome-python-compilers</a>
