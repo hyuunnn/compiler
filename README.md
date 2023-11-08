@@ -1,5 +1,8 @@
 # Compiler
 
+|제목|설명|
+|---|---|
+|<a href="https://github.com/hyuunnn/compiler/tree/main/toy_lexer">toy_lexer</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/toy_lexer/README.md">README.md</a>|
 ## Books
 
 <a href="https://www.yes24.com/Product/Goods/3550566">컴파일러 제작 원리와 실제</a>
@@ -20,11 +23,15 @@
 
 <a href="https://www.yes24.com/Product/Goods/89109612">컴파일러의 이해</a>
 
+<a href="https://www.yes24.com/Product/Goods/4189980">컴파일러 구조와 원리</a>
+
 <a href="https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930">Crafting Interpreters</a>
 
 <a href="https://www.amazon.com/Engineering-Compiler-Keith-D-Cooper/dp/0128154128">Engineering a Compiler</a> (<a href="https://product.kyobobook.co.kr/detail/S000001126735">2003년 출간, 2008년 번역</a>)
 
 <a href="https://www.amazon.com/Build-Your-Own-Programming-Language/dp/1800204809">Build Your Own Programming Language</a>
+
+<a href="https://github.com/kupl-courses/COSE312-2023spring">오학주 교수님 Lecture</a>
 
 
 ## Videos
