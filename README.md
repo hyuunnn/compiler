@@ -33,7 +33,9 @@
 
 <a href="https://www.youtube.com/playlist?list=PLpyASVLdhVonkzEF6HSPjkTxqe1pCqZ0b">컴파일러 (2020년) - 강승식 교수님</a>
 
-<a href="https://www.youtube.com/playlist?list=PLlaaKSQo-dsWUHK8QcRtiifJgydOIvWlE">컴파일러 - 우균 교수님</a>
+<a href="https://www.youtube.com/playlist?list=PLlaaKSQo-dsWUHK8QcRtiifJgydOIvWlE">컴파일러 (2020년) - 우균 교수님</a>
+
+<a href="https://www.youtube.com/playlist?list=PLG2Fcqa8uHziNcJAG8bq8VgG_a8Y2if2X">컴파일러 (2019년) - 우균 교수님</a>
 
 <a href="https://github.com/kaist-cp/cs420">Compiler Design - 강지훈 교수님</a> (<a href="https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0">Youtube</a>)
 
