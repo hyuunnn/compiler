@@ -275,25 +275,31 @@ void reset() {
 }
 
 int main() {
-  while (fgets(input, MAX_LENGTH + 1, stdin) == input) {
-    // fputs(input, stdout);
-    input[strlen(input) - 1] = '\0';  // fgets는 개행 문자까지 받아오기 때문에
-                                      // 개행 문자를 널 문자로 바꿔줌
+  while (1) {
+    printf(">> ");
+    if (fgets(input, MAX_LENGTH + 1, stdin) == input) {
+      // fputs(input, stdout);
 
-    while (strlen(input) > pos) {
-      // while (peekChar() != '\0') {
-      Data new_data;
-      if (rddata(&new_data) == -1) syntaxError();
-      d = (Data *)realloc(d, (data_len + 1) * sizeof(Data));
-      d[data_len++] = new_data;
+      input[strlen(input) - 1] = '\0';  // fgets는 개행 문자까지 받아오기 때문에
+                                        // 개행 문자를 널 문자로 바꿔줌
+
+      while (strlen(input) > pos) {
+        // while (peekChar() != '\0') {
+        Data new_data;
+        if (rddata(&new_data) == -1) syntaxError();
+        d = (Data *)realloc(d, (data_len + 1) * sizeof(Data));
+        d[data_len++] = new_data;
+      }
+
+      for (int i = 0; i < data_len; i++) {
+        if (prdata(d[i]) == -1) unknownDataTypeError();
+        printf("\n");
+      }
+
+      reset();
+    } else {
+      break;
     }
-
-    for (int i = 0; i < data_len; i++) {
-      if (prdata(d[i]) == -1) unknownDataTypeError();
-      printf("\n");
-    }
-
-    reset();
   }
 
   reset();
