@@ -5,7 +5,7 @@
 |<a href="https://github.com/hyuunnn/compiler/tree/main/toy_lexer">toy_lexer</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/toy_lexer/README.md">README.md</a>|
 ## Books
 
-<a href="https://www.yes24.com/Product/Goods/3550566">컴파일러 제작 원리와 실제</a>
+<a href="https://www.yes24.com/Product/Goods/3550566">컴파일러 제작 원리와 실제</a> - 드래곤북이 많이 어려워서 조금 쉽게 설명한 책이라고 한다.
 
 <a href="https://www.yes24.com/Product/Goods/3360617">컴파일러 원리, 기법, 도구 (드래곤북)</a>
 
@@ -13,9 +13,9 @@
 
 <a href="https://www.yes24.com/Product/Goods/103099817">밑바닥부터 만드는 컴파일러 in Go</a>
 
-<a href="https://www.yes24.com/Product/Goods/318250">lex와 yacc</a>
+<a href="https://www.yes24.com/Product/Goods/318250">lex와 yacc</a> - lex, yacc 매뉴얼 책이다. 도구 사용법을 다루고 있다.
 
-<a href="https://www.yes24.com/Product/Goods/4010575">컴파일러 입문</a>
+<a href="https://www.yes24.com/Product/Goods/4010575">컴파일러 입문</a> - 드래곤북의 축소 번역판이라고 한다.
 
 ### Optional
 
