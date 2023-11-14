@@ -13,7 +13,7 @@
 
 <a href="https://www.yes24.com/Product/Goods/103099817">밑바닥부터 만드는 컴파일러 in Go</a>
 
-<a href="https://www.yes24.com/Product/Goods/318250">lex와 yacc</a> - lex, yacc 매뉴얼 책이다. 도구 사용법을 다루고 있다.
+<a href="https://www.yes24.com/Product/Goods/318250">lex와 yacc</a> - lex, yacc 매뉴얼 책이다. 도구 사용법을 다루고 있다. (<a href="https://github.com/hyuunnn/lex_yacc">예제</a>)
 
 <a href="https://www.yes24.com/Product/Goods/4010575">컴파일러 입문</a> - 드래곤북의 축소 번역판이라고 한다.
 
