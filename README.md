@@ -65,6 +65,6 @@
 
 <a href="https://github.com/pfalcon/awesome-python-compilers">awesome-python-compilers</a>
 
-<a href="https://github.com/jamiebuilds/the-super-tiny-compiler">the-super-tiny-compiler</a>
+<a href="https://github.com/jamiebuilds/the-super-tiny-compiler">the-super-tiny-compiler</a> (<a href="https://edykim.com/ko/post/the-super-tiny-compiler/">번역</a>)
 
 <a href="https://github.com/swmaestro06-apus/apus/wiki">swmaestro06-apus wiki</a>
