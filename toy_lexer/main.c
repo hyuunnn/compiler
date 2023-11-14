@@ -165,7 +165,6 @@ bool findString(char *str) {
 
 bool isNil() {
   int prev_pos = pos;
-  int skip_count = 0;
 
   if (findString("NIL") || findString("nil")) {
     for (int i = 0; i < 3; i++) readChar();
