@@ -31,8 +31,15 @@
 
 <a href="https://www.amazon.com/Build-Your-Own-Programming-Language/dp/1800204809">Build Your Own Programming Language</a>
 
+<a href="https://www.amazon.com/flex-bison-Text-Processing-Tools/dp/0596155972">flex & bison</a>
+
 <a href="https://github.com/kupl-courses/COSE312-2023spring">오학주 교수님 Lecture</a>
 
+<a href="https://www.cs.princeton.edu/~appel/modern/">Modern Compiler Implementation 시리즈</a>
+
+<a href="https://www.amazon.com/Modern-Compiler-Design-Dick-Grune/dp/1461446988">Modern Compiler Design</a>
+
+<a href="https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204">Advanced Compiler Design and Implementation</a>
 
 ## Videos
 
