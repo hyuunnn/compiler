@@ -41,6 +41,8 @@
 
 <a href="https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204">Advanced Compiler Design and Implementation</a>
 
+<a href="https://github.com/swmaestro06-apus/apus/wiki">swmaestro06-apus wiki</a>
+
 ## Videos
 
 <a href="https://www.youtube.com/playlist?list=PLalDxVXf3NHertbSsvTLOLZz0T3FyCQnI">컴파일러 (2018년 1학기) - 김중헌 교수님</a>
