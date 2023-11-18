@@ -15,7 +15,8 @@ Exp : Exp '+' Term {  $$ = $1 + $3;
     ;
 Term : Term '*' Factor {  $$ = $1 * $3;
                           printf("T(%d) -> T(%d) * F(%d)\n", $$, $1, $3); }
-     | Term '/' Factor {  $$ = $1 / $3;
+     | Term '/' Factor {  if ($3 == 0) yyerror("divide by zero");
+                          else $$ = $1 / $3;
                           printf("T(%d) -> T(%d) / F(%d)\n", $$, $1, $3); }
      | Factor { $$ = $1; 
                 printf("T(%d) -> F(%d)\n", $$, $1); }
