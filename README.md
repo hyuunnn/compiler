@@ -3,6 +3,8 @@
 |제목|설명|
 |---|---|
 |<a href="https://github.com/hyuunnn/compiler/tree/main/toy_lexer">toy_lexer</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/toy_lexer/README.md">README.md</a>|
+|<a href="https://github.com/hyuunnn/compiler/tree/main/lex_yacc">lex_yacc</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/lex_yacc/README.md">README.md</a>|
+
 ## Books
 
 <a href="https://www.yes24.com/Product/Goods/3550566">컴파일러 제작 원리와 실제</a> - 드래곤북이 많이 어려워서 조금 쉽게 설명한 책이라고 한다.
