@@ -27,7 +27,7 @@
 
 <a href="https://www.yes24.com/Product/Goods/4189980">컴파일러 구조와 원리</a>
 
-<a href="https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930">Crafting Interpreters</a>
+<a href="ttps://www.yes24.com/Product/Goods/123859288">Crafting Interpreters</a> (<a href="https://craftinginterpreters.com/">Online</a>)
 
 <a href="https://www.amazon.com/Engineering-Compiler-Keith-D-Cooper/dp/0128154128">Engineering a Compiler</a> (<a href="https://product.kyobobook.co.kr/detail/S000001126735">2003년 출간, 2008년 번역</a>)
 
