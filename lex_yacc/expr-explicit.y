@@ -19,6 +19,10 @@ Exp : Exp '+' Exp { $$ = $1 + $3;
     | Exp '/' Exp { if ($3 == 0) yyerror("divide by zero");
                     else $$ = $1 / $3;
                     printf("E(%d) -> E(%d) / E(%d)\n", $$, $1, $3); }
+    | '(' Exp ')' { $$ = $2; 
+                    printf("E(%d) -> (E(%d))\n", $$, $2); }
+    | '-' Exp { $$ = -$2; 
+                printf("E(%d) -> -E(%d)\n", $$, $2); }
     | NUMBER { $$ = $1; 
                printf("E(%d) -> n(%d)\n", $$, $1); }
     ;

@@ -23,7 +23,11 @@ Term : Term '*' Factor { $$ = $1 * $3;
      | Factor { $$ = $1; 
                 printf("T(%d) -> F(%d)\n", $$, $1); }
      ;
-Factor: NUMBER { $$ = $1; 
+Factor: '(' Exp ')' { $$ = $2; 
+                      printf("F(%d) -> (E(%d))\n", $$, $2); }
+      | '-' Factor  { $$ = -$2; 
+                      printf("F(%d) -> -F(%d)\n", $$, $2); }
+      | NUMBER { $$ = $1; 
                  printf("F(%d) -> n(%d)\n", $$, $1); }
       ;
 %%

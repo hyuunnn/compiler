@@ -12,6 +12,8 @@
 \- return ('-');
 \* return ('*');
 \/ return ('/');
+\( return ('(');
+\) return (')');
 \n return (0);
 . { printf("'%c': illegal character\n", yytext[0]); exit(-1); }
 %%
