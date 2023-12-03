@@ -4,7 +4,7 @@
 |---|---|
 |<a href="https://github.com/hyuunnn/compiler/tree/main/toy_lexer">toy_lexer</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/toy_lexer/README.md">README.md</a>|
 |<a href="https://github.com/hyuunnn/compiler/tree/main/lex_yacc">lex_yacc</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/lex_yacc/README.md">README.md</a>|
-|<a href="https://github.com/hyuunnn/compiler/tree/main/lex_yacc">lex_yacc_ㅁㄴㅅ</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/lex_yacc_ast/README.md">README.md</a>|
+|<a href="https://github.com/hyuunnn/compiler/tree/main/lex_yacc">lex_yacc_ast</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/lex_yacc_ast/README.md">README.md</a>|
 
 ## Books
 
