@@ -12,7 +12,7 @@
 
 <a href="https://www.yes24.com/Product/Goods/3360617">컴파일러 원리, 기법, 도구 (드래곤북)</a> (<a href="https://github.com/fool2fish/dragon-book-exercise-answers">dragon-book-exercise-answers</a>)
 
-<a href="https://www.yes24.com/Product/Goods/123859288">Crafting Interpreters</a> (<a href="https://craftinginterpreters.com/">Online</a>)
+<a href="https://www.yes24.com/Product/Goods/123859288">Crafting Interpreters</a> (<a href="https://craftinginterpreters.com/">Online</a>) - <a href="https://twitter.com/dongheena92/status/1731178427460530177">corona10님 후기</a>
 
 <a href="https://www.yes24.com/Product/Goods/103157156">밑바닥부터 만드는 인터프리터 in Go</a>
 
@@ -45,6 +45,8 @@
 <a href="https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204">Advanced Compiler Design and Implementation</a>
 
 <a href="https://www.yes24.com/Product/goods/24731934">오픈 소스 ANTLR4 입문</a>
+
+<a href="https://www.yes24.com/Product/Goods/112893907">CPython 파헤치기</a> - <a href="https://twitter.com/dongheena92/status/1731180008281165870">corona10님 추천 도서</a>
 
 ## Videos
 
