@@ -38,7 +38,7 @@
 
 <a href="https://github.com/kupl-courses/COSE312-2023spring">오학주 교수님 Lecture</a>
 
-<a href="https://www.cs.princeton.edu/~appel/modern/">Modern Compiler Implementation 시리즈</a>
+<a href="https://www.cs.princeton.edu/~appel/modern/">Modern Compiler Implementation 시리즈</a> (<a href="https://www.cs.columbia.edu/~sedwards/classes/2002/w4115/tiger.pdf">Tiger</a>, <a href="https://www.cambridge.org/us/features/052182060X/index.html">MiniJava</a>)
 
 <a href="https://www.amazon.com/Modern-Compiler-Design-Dick-Grune/dp/1461446988">Modern Compiler Design</a>
 
