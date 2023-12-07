@@ -44,6 +44,8 @@
 
 <a href="https://www.amazon.com/Advanced-Compiler-Design-Implementation-Muchnick/dp/1558603204">Advanced Compiler Design and Implementation</a>
 
+<a href="https://www.amazon.com/Crafting-Compiler-Charles-N-Fischer/dp/0136067050">Crafting A Compiler</a>
+
 <a href="https://www.yes24.com/Product/goods/24731934">오픈 소스 ANTLR4 입문</a>
 
 <a href="https://www.yes24.com/Product/Goods/112893907">CPython 파헤치기</a> - <a href="https://twitter.com/dongheena92/status/1731180008281165870">corona10님 추천 도서</a>
