@@ -42,7 +42,7 @@ Factor: '(' Exp ')' { $$ = $2; }
 %%
 
 int main() { 
-  table = (Pair *)malloc(sizeof(Pair));
+  table = (duo)malloc(sizeof(Pair));
   yyparse();
   }
 
