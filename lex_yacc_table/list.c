@@ -54,7 +54,7 @@ void entry(duo t, str s, int i) {
 
     // 변수가 이미 존재하면 값만 변경한다.
     if (car(p) != NULL) {
-        p->d[0].pval->d[1] = mkint(i);
+        car(p)->d[1] = mkint(i);
         return;
     }
 
