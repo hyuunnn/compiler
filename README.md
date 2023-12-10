@@ -83,4 +83,6 @@
 
 <a href="https://github.com/terrajobst/minsk">minsk</a>
 
+<a href="https://github.com/orosmatthew/hydrogen-cpp">hydrogen-cpp</a>
+
 <a href="https://github.com/joe-conigliaro/tinyv">tinyv</a>
