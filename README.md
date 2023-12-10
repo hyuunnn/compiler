@@ -81,4 +81,6 @@
 
 <a href="https://github.com/wren-lang/wren/tree/main/src/vm">wren-lang</a>
 
+<a href="https://github.com/terrajobst/minsk">minsk</a>
+
 <a href="https://github.com/joe-conigliaro/tinyv">tinyv</a>
