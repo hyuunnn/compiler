@@ -63,6 +63,12 @@
 
 <a href="https://github.com/kaist-cp/cs420">Compiler Design - 강지훈 교수님</a> (<a href="https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0">Youtube</a>)
 
+<a href="https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y">Building a Compiler - Immo Landwerth</a> (<a href="https://github.com/terrajobst/minsk">Github</a>)
+
+<a href="https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs">Creating a Compiler - Pixeled</a> (<a href="https://github.com/orosmatthew/hydrogen-cpp">Github</a>)
+
+<a href="https://www.youtube.com/playlist?list=PLzLzYGEbdY5n9ITKUqOuRjXkRU5tMW2Sd">Creating a Compiler - Bisqwit</a> (<a href="https://github.com/bisqwit/compiler_series">Github</a>)
+
 ## ETC
 
 <a href="https://github.com/aalhour/awesome-compilers">awesome-compilers</a>
@@ -80,9 +86,5 @@
 <a href="https://github.com/swmaestro06-apus/apus/wiki">swmaestro06-apus wiki</a>
 
 <a href="https://github.com/wren-lang/wren/tree/main/src/vm">wren-lang</a>
-
-<a href="https://github.com/terrajobst/minsk">minsk</a>
-
-<a href="https://github.com/orosmatthew/hydrogen-cpp">hydrogen-cpp</a>
 
 <a href="https://github.com/joe-conigliaro/tinyv">tinyv</a>
