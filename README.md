@@ -93,6 +93,8 @@ Compiler (for fun, from scratch :p) <a href="https://www.youtube.com/playlist?li
 
 <a href="https://github.com/codecrafters-io/build-your-own-x#build-your-own-programming-language">build-your-own-x</a>
 
+<a href="https://github.com/practical-tutorials/project-based-learning">project-based-learning</a>
+
 <a href="https://github.com/swmaestro06-apus/apus/wiki">swmaestro06-apus wiki</a>
 
 <a href="https://github.com/wren-lang/wren/tree/main/src/vm">wren-lang</a>
