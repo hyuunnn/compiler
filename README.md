@@ -69,6 +69,14 @@
 
 <a href="https://www.youtube.com/playlist?list=PLzLzYGEbdY5n9ITKUqOuRjXkRU5tMW2Sd">Creating a Compiler - Bisqwit</a> (<a href="https://github.com/bisqwit/compiler_series">Github</a>)
 
+<a href="https://www.youtube.com/playlist?list=PLI1h1vRqlHLNZAa2BEM9uZ2GEvUNYDasO">Building a compiler in rust - Julian Hartl</a> (<a href="https://github.com/julian-hartl/fusion-lang">Github</a>)
+
+Compiler (for fun, from scratch :p) <a href="https://www.youtube.com/playlist?list=PLysa8wRFCssxGKj_RxBWr3rwmjEYlJIpa">2022</a>, <a href="https://www.youtube.com/playlist?list=PLysa8wRFCsswO6UpxiNwxut-Ai4ZeMKqn">2023</a> (<a href="https://github.com/LensPlaysGames/LensorCompilerCollection">Github</a>)
+
+<a href="https://www.youtube.com/playlist?list=PLysa8wRFCssxGKj_RxBWr3rwmjEYlJIpa"></a>
+
+<a href="https://www.youtube.com/playlist?list=PLvaIU2QC2uvFnVxXe-XzXJfd4dXGz5qBB">Make a compiler - Ianertson</a> (<a href="https://github.com/sebbekarlsson/tac">Github</a>)
+
 ## ETC
 
 <a href="https://github.com/aalhour/awesome-compilers">awesome-compilers</a>
