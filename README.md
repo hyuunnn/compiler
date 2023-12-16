@@ -100,6 +100,8 @@ Compiler (for fun, from scratch :p) <a href="https://www.youtube.com/playlist?li
 
 <a href="https://github.com/mtb0x1/Project-Based-Tutorials-in-C">Project-Based-Tutorials-in-C</a>
 
+<a href="https://github.com/ehsanmok/create-your-own-lang-with-rust">Create your own programming language with Rust</a>
+
 <a href="https://github.com/swmaestro06-apus/apus/wiki">swmaestro06-apus wiki</a>
 
 <a href="https://github.com/wren-lang/wren/tree/main/src/vm">wren-lang</a>
