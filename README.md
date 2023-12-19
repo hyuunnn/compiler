@@ -6,7 +6,7 @@
 |<a href="https://github.com/hyuunnn/compiler/tree/main/lex_yacc">lex_yacc</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/lex_yacc/README.md">README.md</a>|
 |<a href="https://github.com/hyuunnn/compiler/tree/main/lex_yacc_ast">lex_yacc_ast</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/lex_yacc_ast/README.md">README.md</a>|
 |<a href="https://github.com/hyuunnn/compiler/tree/main/lex_yacc_table">lex_yacc_table</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/lex_yacc_table/README.md">README.md</a>|
-|<a href="https://github.com/hyuunnn/compiler/tree/main/hyunlang">hyunlang</a>|<a href="https://github.com/hyuunnn/compiler/blob/main/hyunlang/README.md">README.md</a>|
+|<a href="https://github.com/hyuunnn/hyunlang">hyunlang</a>|<a href="https://github.com/hyuunnn/hyunlang/blob/main/README.md">README.md</a>|
 
 ## Books
 
