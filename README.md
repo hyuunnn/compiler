@@ -14,7 +14,7 @@
 
 <a href="https://www.yes24.com/Product/Goods/3360617">컴파일러 원리, 기법, 도구 (드래곤북)</a> (<a href="https://github.com/fool2fish/dragon-book-exercise-answers">dragon-book-exercise-answers</a>)
 
-<a href="https://www.yes24.com/Product/Goods/123859288">Crafting Interpreters</a> (<a href="https://craftinginterpreters.com/">Online</a>) - <a href="https://twitter.com/dongheena92/status/1731178427460530177">corona10님 후기</a>
+<a href="https://www.yes24.com/Product/Goods/123859288">Crafting Interpreters</a> (<a href="https://craftinginterpreters.com/">Online</a>) - <a href="https://twitter.com/dongheena92/status/1731178427460530177">corona10님 후기</a>, <a href="https://eli.thegreenplace.net/2022/how-i-went-about-learning-rust/">Eli Bendersky</a>
 
 <a href="https://www.yes24.com/Product/Goods/103157156">밑바닥부터 만드는 인터프리터 in Go</a>
 
