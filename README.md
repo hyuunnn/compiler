@@ -102,7 +102,9 @@ Compiler (for fun, from scratch :p) <a href="https://www.youtube.com/playlist?li
 
 <a href="https://github.com/ehsanmok/create-your-own-lang-with-rust">Create your own programming language with Rust</a>
 
-<a href="https://github.com/namin/inc">an incremental approach to compiler construction</a>
+<a href="http://lambda-the-ultimate.org/node/1752">An Incremental Approach to Compiler Construction</a>
+  * <a href="https://github.com/namin/inc">inc - namin</a>
+  * <a href="https://generalproblem.net/lets_build_a_compiler/">Let's Build a Compiler</a>
 
 <a href="https://github.com/swmaestro06-apus/apus/wiki">swmaestro06-apus wiki</a>
 
