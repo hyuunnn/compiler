@@ -32,6 +32,8 @@
 
 <a href="https://www.yes24.com/Product/Goods/4189980">컴파일러 구조와 원리</a>
 
+<a href="https://www.yes24.com/Product/Goods/102185325">만들면서 배우는 컴파일러 첫걸음</a>
+
 <a href="https://www.amazon.com/Engineering-Compiler-Keith-D-Cooper/dp/0128154128">Engineering a Compiler</a> (<a href="https://product.kyobobook.co.kr/detail/S000001126735">2003년 출간, 2008년 번역</a>)
 
 <a href="https://www.amazon.com/Build-Your-Own-Programming-Language/dp/1800204809">Build Your Own Programming Language</a>
